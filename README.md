@@ -1,2 +1,2 @@
 # BrownBearInfo-WebPage
-A basic HTML5 web page.
+A basic HTML5 website with two webpages.
